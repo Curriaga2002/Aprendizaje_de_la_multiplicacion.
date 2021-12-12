@@ -1,0 +1,13 @@
+table {
+    color: rgb(0, 0, 0)
+}
+tr {
+    width: 100%;
+    border: yellowgreen;
+    background-color: turquoise;
+}
+td {
+    background-color: rgb(255, 120, 248);
+  width: 20%;
+  border-color: rgb(255, 0, 0);
+}
